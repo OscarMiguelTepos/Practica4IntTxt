@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica4IntTxt</string>
+    <string name="inombre">Ingresa tu Nombre</string>
+    <string name="bsaludar">Saludar</string>
+</resources>
